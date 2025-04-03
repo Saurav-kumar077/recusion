@@ -2,7 +2,7 @@
 using namespace std;
 
 bool Binarysearch(int *arr, int s, int e, int key) {
-    if (s > e) {
+    if (s > e) {//Base fumction
         return false; 
     }
 
