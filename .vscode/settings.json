@@ -2,5 +2,6 @@
     "files.associations": {
         "numeric": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }
